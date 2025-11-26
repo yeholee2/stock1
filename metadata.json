@@ -1,0 +1,5 @@
+{
+  "name": "Minervini Scanner (Toss Style)",
+  "description": "A minimalist, Toss Securities-inspired stock scanner based on Mark Minervini's Volatility Contraction Pattern (VCP) and SEPA methodology.",
+  "requestFramePermissions": []
+}
